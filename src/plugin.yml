@@ -1,0 +1,20 @@
+name: XPPlus
+version: 1.0
+author: Wylarel
+main: com.wylarel.xpplus.Main
+description: A Minecraft plugin to manage XP in an advanced way
+api-version: 1.15
+
+commands:
+  bottlexp:
+    description: Bottle your XP
+    permission: bottlexp.use
+    usage: bottlexp
+  clearxp:
+    description: Clear your XP
+    permission: clearxp.self.use
+    usage: clearxp
+  xpsign:
+    description: Add or remove a XP Sign
+    permission: xpsign.manage
+    usage: xpsign

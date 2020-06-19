@@ -1,0 +1,33 @@
+bottlexp:
+  #/bottlexp command
+  #type 0 -> Exponential | type 1 -> Linear
+  type: 0
+  #This is the ratio xp/bottles
+  #If type is set to Exponential (default), 1.0 means that you get the same amount of xp that you have when you transform it in bottles.
+  #If type is set to Linear, this is the number of xp bottles that you'll get per level.
+  #To avoid abuse, if the number of bottles that the player should get is not an integer, we round down.
+  ratio: 1.0 
+  
+  message: "&aYou received &2<bottles> XP bottles &afrom your &2<levels> &alevels"
+  error:
+    not_enough: "&cYou do not have enough experience to transform into bottles"
+    
+clearxp:
+  self: #/clearxp
+    message: "&aYour XP was cleared"
+    error:
+      already_null: "&cYou have no XP"
+  other: #/clearxp <player>
+    message: "&a<player>'s XP was cleared"
+    error:
+      already_null: "&c<player> already had no XP"
+
+oneclickbottles: #Sneak + Throw to use all your XP bottles
+  enabled: true
+  message: "&aYou used &2<bottles> &abottles"
+  
+xpsign:
+  oncreate: "&aThe &2<sign> &aat the location &2<location> &awas successfully made into a XP Sign"
+  onremove: "&aThe &2<sign> &aat the location &2<location> &ais not a XP Sign anymore"
+  list:
+    ""
