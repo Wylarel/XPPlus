@@ -31,7 +31,7 @@ xpsign:
   list: - List of XP Signs, better not to touch
 ```
 
-## License MIT
+## MIT License
 ```
 Copyright (c) 2020 Wylarel
 
