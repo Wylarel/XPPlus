@@ -24,11 +24,11 @@ clearxp:
 
 oneclickbottles: - Sneak + Throw to use all your XP bottles
   enabled: [Boolean] - Is the functionality enabled
-  message: [String] Message when using the functionality | Variable: <bottles> | Support chat color (&)
+  message: [String] - Message when using the functionality | Variable: <bottles> | Support chat color (&)
 xpsign:
-  oncreate: [String] Message when creating a XP Sign | Variables: <sign> & <location> | Support chat color (&)
-  onremove: [String] Message when removing a XP Sign | Variables: <sign> & <location> | Support chat color (&)
-  list: - List of XP Signs, do not touch
+  oncreate: [String] - Message when creating a XP Sign | Variables: <sign> & <location> | Support chat color (&)
+  onremove: [String] - Message when removing a XP Sign | Variables: <sign> & <location> | Support chat color (&)
+  list: - List of XP Signs, better not to touch
 ```
 
 ## License MIT
