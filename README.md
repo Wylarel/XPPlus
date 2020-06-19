@@ -6,12 +6,12 @@
 
 ## Permissions
 ### Players
-bottlexp.use
-clearxp.self.use
-xpsign.use
+**bottlexp.use** - Command /bottlexp  
+**clearxp.self.use** - Command /clearxp  
+**xpsign.use** - Click on XP Sign  
 ### Admins
-clearxp.other.use
-xpsign.manage
+**clearxp.other.use** - Command /clearxp \[player\]  
+**xpsign.manage** - Command /xpsign  
 
 ## Configuration
 ```yaml
