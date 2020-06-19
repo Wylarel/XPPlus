@@ -4,6 +4,15 @@
 
 **Tested Versions:** 1.15.x
 
+## Permissions
+### Players
+bottlexp.use
+clearxp.self.use
+xpsign.use
+### Admins
+clearxp.other.use
+xpsign.manage
+
 ## Configuration
 ```yaml
 bottlexp:
