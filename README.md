@@ -1,5 +1,6 @@
 # XPPlus
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://raw.githubusercontent.com/Wylarel/XPPlus/master/LICENSE)
+[![Discord](https://img.shields.io/badge/Chat-Discord-blue)](https://discord.gg/7qvmeh2)
 ## A Minecraft plugin to manage XP in an advanced way
 
 **Tested Versions:** 1.15.x
