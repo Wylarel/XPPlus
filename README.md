@@ -8,6 +8,7 @@
 ### Players
 **bottlexp.use** - Command /bottlexp  
 **clearxp.self.use** - Command /clearxp  
+**oneclickbottles.use** - Use the one click bottle functionality
 **xpsign.use** - Click on XP Sign  
 ### Admins
 **clearxp.other.use** - Command /clearxp \[player\]  
