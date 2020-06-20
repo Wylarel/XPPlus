@@ -1,6 +1,6 @@
 # XPPlus
 ## A Minecraft plugin to manage XP in an advanced way
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://raw.githubusercontent.com/Wylarel/XPPlus/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://wylarel.com/mit/)
 [![Discord](https://img.shields.io/badge/Chat-Discord-blue)](https://discord.gg/7qvmeh2)
 [![Versions](https://img.shields.io/badge/Tested%20Versions-1.15.x-orange)](#)
 
@@ -41,7 +41,7 @@ xpsign:
   list: - List of XP Signs, better not to touch
 ```
 
-## MIT License
+## [MIT License](https://wylarel.com/mit/)
 ```
 Copyright (c) 2020 Wylarel
 
