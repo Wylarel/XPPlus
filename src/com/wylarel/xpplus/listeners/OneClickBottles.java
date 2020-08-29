@@ -64,7 +64,7 @@ public class OneClickBottles implements Listener {
 	public static void deleteAll(Player arg0, ItemStack arg1) {
         for (int i = 0; i < 36; i++) {
             ItemStack slot = arg0.getInventory().getItem(i);
-            if (slot != null & slot.isSimilar(arg1))
+            if (slot != null && slot.isSimilar(arg1))
             	slot.setAmount(0);
         }
     }
