@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://wylarel.com/mit/)
 [![Discord](https://img.shields.io/badge/Chat-Discord-blue)](https://discord.gg/7qvmeh2)
 [![Versions](https://img.shields.io/badge/Tested%20Versions-1.15.x-orange)](#)
+[![Download](https://img.shields.io/badge/Download%20on-SpigotMC-orange)](https://www.spigotmc.org/resources/xp-plus.80057/)
 
 ## Permissions
 ### Players
