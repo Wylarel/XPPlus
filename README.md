@@ -4,6 +4,7 @@
 [![Discord](https://img.shields.io/badge/Chat-Discord-blue)](https://discord.gg/7qvmeh2)
 [![Versions](https://img.shields.io/badge/Tested%20Versions-1.15.x-orange)](#)
 [![Download](https://img.shields.io/badge/Download%20on-SpigotMC-orange)](https://www.spigotmc.org/resources/xp-plus.80057/)
+[![Spigot Rating](https://img.shields.io/spiget/stars/80057?color=yellow&label=Spigot%20Rating)](https://www.spigotmc.org/resources/xp-plus.80057/)
 
 ## Permissions
 ### Players
